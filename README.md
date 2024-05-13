@@ -1,2 +1,2 @@
 # tipper - PAYPAL
-Hedge Funds Security - Cybersecurity Authentication App Management
+Hedge Funds Security - Cybersecurity Authentication Database Management
